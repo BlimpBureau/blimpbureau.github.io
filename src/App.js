@@ -93,8 +93,8 @@ export default class App extends React.Component {
             // FFS
             {
                 src:"img/showcase/ffs/ffs-mockup-2.jpg",
-                orgWidth: 1500,
-                orgHeight: 1000,
+                orgWidth: 1600,
+                orgHeight: 1200,
                 href: "https://www.fleetfoxstudios.com/"
             },
 
