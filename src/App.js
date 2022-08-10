@@ -17,37 +17,37 @@ export default class App extends React.Component {
                 src: "img/showcase/kalleskok/kalles_kok_logo_presentation.jpg",
                 orgWidth: 1181,
                 orgHeight: 1181,
-                href: "https://www.kalleskok.se"
+                href: "https://kalleskok.squarespace.com/"
             },
             {
                 src: "img/showcase/kalleskok/kalles_kok_etikett_10x10cm_r02_fisk.jpg",
                 orgWidth: 1181,
                 orgHeight: 1181,
-                href: "https://www.kalleskok.se"
+                href: "https://kalleskok.squarespace.com/"
             },
             {
                 src: "img/showcase/kalleskok/kalles_kok_etikett_10x10cm_r02_kott.jpg",
                 orgWidth: 1181,
                 orgHeight: 1181,
-                href: "https://www.kalleskok.se"
+                href: "https://kalleskok.squarespace.com/"
             },
             {
                 src: "img/showcase/kalleskok/kalles_kok_etikett_10x10cm_r02_flask.jpg",
                 orgWidth: 1181,
                 orgHeight: 1181,
-                href: "https://www.kalleskok.se"
+                href: "https://kalleskok.squarespace.com/"
             },
             {
                 src: "img/showcase/kalleskok/kalles_kok_etikett_10x10cm_r02_veggo.jpg",
                 orgWidth: 1181,
                 orgHeight: 1181,
-                href: "https://www.kalleskok.se"
+                href: "https://kalleskok.squarespace.com/"
             },
             {
                 src: "img/showcase/kalleskok/kalles_kok_etikett_10x10cm_r02_vegan.jpg",
                 orgWidth: 1181,
                 orgHeight: 1181,
-                href: "https://www.kalleskok.se"
+                href: "https://kalleskok.squarespace.com/"
             },
 
             //stockholmsskolan
@@ -58,34 +58,71 @@ export default class App extends React.Component {
                 orgHeight: 1080
             },
 
-            //organics by sara
+            // Organics by Sara
             {
                 src: "img/showcase/bysara/2018/organicsbysara_design_2018_logo.svg",
                 orgWidth: 1080,
-                orgHeight: 1080
+                orgHeight: 1080,
+                href: "https://bysara.se/"
             },
             {
                 src: "img/showcase/bysara/2018/organicsbysara_design_2018_1_min.jpg",
                 orgWidth: 1080,
-                orgHeight: 1080
+                orgHeight: 1080,
+                href: "https://bysara.se/"
             },
             {
                 src: "img/showcase/bysara/2018/organicsbysara_design_2018_2_min.jpg",
                 orgWidth: 1080,
-                orgHeight: 1080
+                orgHeight: 1080,
+                href: "https://bysara.se/"
             },
             {
                 src: "img/showcase/bysara/2018/organicsbysara_design_2018_3_min.jpg",
                 orgWidth: 1080,
-                orgHeight: 1080
+                orgHeight: 1080,
+                href: "https://bysara.se/"
             },
+
             // {
             //     src: "img/showcase/bysara/2018/organicsbysara_design_2018_4_min.jpg",
             //     orgWidth: 1080,
             //     orgHeight: 1080
             // },
 
-            //forkrok
+            // FFS
+            {
+                src:"img/showcase/ffs/ffs-mockup-2.jpg",
+                orgWidth: 1500,
+                orgHeight: 1000,
+                href: "https://www.fleetfoxstudios.com/"
+            },
+
+            // Dick Turpin
+            {
+                src:"img/showcase/dickturpin/dick_turpin.jpg",
+                orgWidth: 800,
+                orgHeight: 600,
+                href: "https://www.dickturpin.se/"
+            },
+
+            // Advokatfirman Rainer & Aziman
+            {
+                src:"img/showcase/rainer_aziman/advokatfirman_rainer_aziman.png",
+                orgWidth: 800,
+                orgHeight: 600,
+                href: "https://raineraziman.se/"
+            },
+
+            // Responsive Tables
+            {
+                src:"img/showcase/responsive_tables/responsive_tables.png",
+                orgWidth: 1600,
+                orgHeight: 1200,
+                href: "https://gergeo.se/RWD-Table-Patterns/"
+            },
+
+            // //forkrok
             // {
             //     src: "img/showcase/forkrok/thanos_forkrok_29okt.png",
             //     orgWidth: 1080,
@@ -313,11 +350,11 @@ export default class App extends React.Component {
                 orgWidth: 1280,
                 orgHeight: 854
             },
-            { 
-                src: "img/showcase/bysara/bysara-logo-3.svg",
-                orgWidth: 900,
-                orgHeight: 900
-            },
+            // { 
+            //     src: "img/showcase/bysara/bysara-logo-3.svg",
+            //     orgWidth: 900,
+            //     orgHeight: 900
+            // },
 
             //osqledaren 
             { 
