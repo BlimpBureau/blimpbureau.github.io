@@ -78,6 +78,15 @@ export default class App extends React.Component {
                 orgHeight: 1080
             },
 
+            // Cap&Design - Anteckningar från kaninhålet
+            {
+                src: "img/showcase/capanddesign/capanddesign_anteckningar_fran_kaninhalet.png",
+                orgWidth: 776,
+                orgHeight: 776,
+                href: "https://www.dropbox.com/s/lz3erp1ogvtz9ke/webbkr%C3%B6nikaCAP%235_RED.pdf?dl=0"
+            },
+            
+
             // Organics by Sara
             {
                 src: "img/showcase/bysara/2018/organicsbysara_design_2018_logo.svg",
@@ -103,12 +112,12 @@ export default class App extends React.Component {
                 orgHeight: 1080,
                 href: "https://bysara.se/"
             },
-            {
-                src: "img/showcase/bysara/2018/organicsbysara_design_2018_4_min.jpg",
-                orgWidth: 1080,
-                orgHeight: 1080,
-                href: "https://bysara.se/"
-            },
+            // {
+            //     src: "img/showcase/bysara/2018/organicsbysara_design_2018_4_min.jpg",
+            //     orgWidth: 1080,
+            //     orgHeight: 1080,
+            //     href: "https://bysara.se/"
+            // },
 
             // FFS
             {
