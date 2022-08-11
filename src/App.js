@@ -12,6 +12,26 @@ export default class App extends React.Component {
                 orgHeight: 1080
             },
 
+            //Switcha
+            {
+                src: "img/showcase/switcha/Switcha Trailer r01 screenshot1.png",
+                orgWidth: 1080,
+                orgHeight: 1080,
+                href: "https://vimeo.com/738474497"
+            },
+            {
+                src: "img/showcase/switcha/Switcha Trailer r01 screenshot2.png",
+                orgWidth: 1080,
+                orgHeight: 1080,
+                href: "https://vimeo.com/738474497"
+            },
+            {
+                src: "img/showcase/switcha/Switcha Trailer r01 screenshot3.png",
+                orgWidth: 1080,
+                orgHeight: 1080,
+                href: "https://vimeo.com/738474497"
+            },
+
             //kalles kök
             {
                 src: "img/showcase/kalleskok/kalles_kok_logo_presentation.jpg",
@@ -83,12 +103,12 @@ export default class App extends React.Component {
                 orgHeight: 1080,
                 href: "https://bysara.se/"
             },
-
-            // {
-            //     src: "img/showcase/bysara/2018/organicsbysara_design_2018_4_min.jpg",
-            //     orgWidth: 1080,
-            //     orgHeight: 1080
-            // },
+            {
+                src: "img/showcase/bysara/2018/organicsbysara_design_2018_4_min.jpg",
+                orgWidth: 1080,
+                orgHeight: 1080,
+                href: "https://bysara.se/"
+            },
 
             // FFS
             {
@@ -294,12 +314,14 @@ export default class App extends React.Component {
             { 
                 src: "img/showcase/mentimeter/mentimeter-brand.png",
                 orgWidth: 1200,
-                orgHeight: 850
+                orgHeight: 850,
+                href: "https://vimeo.com/108248907"
             },
             { 
                 src: "img/showcase/mentimeter/mentimeter-logo-spec.png",
                 orgWidth: 1200,
-                orgHeight: 850
+                orgHeight: 850,
+                href: "https://vimeo.com/108248907"
             },
             { 
                 src: "img/showcase/mentimeter/mentimeter-site.png",
@@ -422,8 +444,7 @@ export default class App extends React.Component {
             { 
                 src: "img/showcase/rob_and_jack/RobAndJack-profile-image-2-sabale-yellow-q50.jpg",
                 orgWidth: 1280,
-                orgHeight: 1280,
-                href: "http://robnjack.com/"
+                orgHeight: 1280
             },
 
             //ADG 
