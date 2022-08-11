@@ -37,37 +37,37 @@ export default class App extends React.Component {
                 src: "img/showcase/kalleskok/kalles_kok_logo_presentation.jpg",
                 orgWidth: 1181,
                 orgHeight: 1181,
-                href: "https://kalleskok.squarespace.com/"
+                href: "https://kalleskok.se/"
             },
             {
                 src: "img/showcase/kalleskok/kalles_kok_etikett_10x10cm_r02_fisk.jpg",
                 orgWidth: 1181,
                 orgHeight: 1181,
-                href: "https://kalleskok.squarespace.com/"
+                href: "https://kalleskok.se/"
             },
             {
                 src: "img/showcase/kalleskok/kalles_kok_etikett_10x10cm_r02_kott.jpg",
                 orgWidth: 1181,
                 orgHeight: 1181,
-                href: "https://kalleskok.squarespace.com/"
+                href: "https://kalleskok.se/"
             },
             {
                 src: "img/showcase/kalleskok/kalles_kok_etikett_10x10cm_r02_flask.jpg",
                 orgWidth: 1181,
                 orgHeight: 1181,
-                href: "https://kalleskok.squarespace.com/"
+                href: "https://kalleskok.se/"
             },
             {
                 src: "img/showcase/kalleskok/kalles_kok_etikett_10x10cm_r02_veggo.jpg",
                 orgWidth: 1181,
                 orgHeight: 1181,
-                href: "https://kalleskok.squarespace.com/"
+                href: "https://kalleskok.se/"
             },
             {
                 src: "img/showcase/kalleskok/kalles_kok_etikett_10x10cm_r02_vegan.jpg",
                 orgWidth: 1181,
                 orgHeight: 1181,
-                href: "https://kalleskok.squarespace.com/"
+                href: "https://kalleskok.se/"
             },
 
             //stockholmsskolan
