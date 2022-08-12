@@ -381,11 +381,11 @@ export default class App extends React.Component {
                 orgWidth: 1280,
                 orgHeight: 854
             },
-            // { 
-            //     src: "img/showcase/bysara/bysara-logo-3.svg",
-            //     orgWidth: 900,
-            //     orgHeight: 900
-            // },
+            { 
+                src: "img/showcase/bysara/bysara-logo-3.svg",
+                orgWidth: 900,
+                orgHeight: 900
+            },
 
             //osqledaren 
             { 
