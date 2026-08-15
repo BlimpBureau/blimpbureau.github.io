@@ -7,7 +7,7 @@ export default class App extends React.Component {
             //Blimp Logo
             {
                 type: "iframe",
-                src: "/mountal/",
+                src: "/mountal2026/",
                 orgWidth: 1080,
                 orgHeight: 1080
             },
