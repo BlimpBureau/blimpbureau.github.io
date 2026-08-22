@@ -128,12 +128,12 @@ export default class App extends React.Component {
             },
 
             // Dick Turpin
-            {
-                src:"img/showcase/dickturpin/dick_turpin.jpg",
-                orgWidth: 800,
-                orgHeight: 600,
-                href: "https://www.dickturpin.se/"
-            },
+            // {
+            //     src:"img/showcase/dickturpin/dick_turpin.jpg",
+            //     orgWidth: 800,
+            //     orgHeight: 600,
+            //     href: "https://www.dickturpin.se/"
+            // },
             
             // Hebbevillan
             {
